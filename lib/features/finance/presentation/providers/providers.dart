@@ -1,0 +1,1 @@
+export './interes_simple/monto_simple_provider.dart';
